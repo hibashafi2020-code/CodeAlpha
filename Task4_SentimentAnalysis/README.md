@@ -101,4 +101,4 @@ python sentiment_analysis.py
 **Hiba Fathima**
 CodeAlpha Data Analytics Intern — June 2026
 GitHub: https://github.com/hibashafi2020-code
-LinkedIn: *(Add after setup)*
+LinkedIn: www.linkedin.com/in/ hiba-fathima-647790320
