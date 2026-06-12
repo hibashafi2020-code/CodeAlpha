@@ -120,4 +120,6 @@ CodeAlpha Data Analytics Intern — June 2026
 
 GitHub: https://github.com/hibashafi2020-code
 
-LinkedIn: *(To be added)*
+LinkedIn: *www.linkedin.com/in/
+hiba-fathima-647790320
+*
